@@ -85,17 +85,10 @@ def size():
 
 
 
+#-------testing part---------
 
-
-
-
-
-
-
-
-
-username = '1609853GBM30013'
-password = '89546720'
+username = **
+password = **
 
 login(username,password)
 
