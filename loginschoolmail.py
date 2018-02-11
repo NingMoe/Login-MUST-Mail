@@ -1,4 +1,6 @@
 # coding:utf-8
+# Python 3.6
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
